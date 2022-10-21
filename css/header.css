@@ -44,16 +44,8 @@
     padding: 20px;
   }
   .header a {
+    font-size: 0.75rem;
     background: #242424;
     border-radius: 4px;
-  }
-  .header-menu {
-    font-size: 0, 875rem;
-    line-height: 1;
-    padding: 8px 8px;
-    align-items: center;
-    text-decoration: none;
-    color: #fafafa;
-    display: block;
   }
 }
