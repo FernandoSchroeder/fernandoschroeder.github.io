@@ -36,3 +36,15 @@
     border-radius: 4px;
   }
 }
+
+@media (max-width: 600px) {
+  .header {
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+  }
+  .header a {
+    background: #242424;
+    border-radius: 4px;
+  }
+}
