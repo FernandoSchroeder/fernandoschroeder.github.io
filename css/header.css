@@ -47,4 +47,13 @@
     background: #242424;
     border-radius: 4px;
   }
+  .header-menu a {
+    font-size: 1rem;
+    line-height: 1.1;
+    padding: 10px 10px;
+    align-items: center;
+    text-decoration: none;
+    color: #fafafa;
+    display: block;
+  }
 }
